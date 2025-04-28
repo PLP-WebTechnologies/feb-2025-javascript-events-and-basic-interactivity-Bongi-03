@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+  }
+  
+  .tab-content {
+    margin: 20px 0;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 8px;
+  }
+  
+  .error {
+    border: 2px solid red;
+  }
+  
+  .success {
+    border: 2px solid green;
+  }
+  .inactive{
+    opacity : 0.5;
+  }
